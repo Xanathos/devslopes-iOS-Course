@@ -11,4 +11,11 @@ import Foundation
 struct Category {
     public var title: String!
     public var imageName: String!
+    
+    init(title: String, imageName : String){
+        self.title = title
+        self.imageName = imageName
+    }
+    
+    
 }
