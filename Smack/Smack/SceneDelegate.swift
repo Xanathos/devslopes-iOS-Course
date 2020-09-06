@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Smack
 //
-//  Created by Christian Torrico on 9/1/20.
+//  Created by Christian Torrico on 9/5/20.
 //  Copyright © 2020 Christian Torrico. All rights reserved.
 //
 
